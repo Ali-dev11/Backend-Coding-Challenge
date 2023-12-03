@@ -28,7 +28,7 @@ Create a `.env` file in the project root and define your environment variables:
 
 ```bash
 PORT=3000
-MONGO_URI=mongodb://localhost:27017yourdbname
+MONGO_URI=mongodb://localhost:27017/yourdbname
 JWT_SECRET=yourjwtsecretkey
 ```
 
