@@ -40,6 +40,12 @@ npm run server
 
 The API should now be running `http://localhost:3000`
 
+## Functionalitites:
+- User can registed to the application.
+- User can login into ones account.
+- User can create tasks.
+- User can list all the tasks.
+
 ## Structure
 - src/server.ts: Have the server intialization and configure the server
 - src/config/db.ts: Contains the database connection
